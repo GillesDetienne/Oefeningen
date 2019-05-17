@@ -9,6 +9,9 @@
     	<Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Button Text="Klik hier..." Margin="10" x:Name="ClickBTN" Clicked="ClickBTN_Clicked"/>
+        <Image Source="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjd96LviqLiAhUQJ1AKHWOvD7IQjRx6BAgBEAU&url=https%3A%2F%2Fwww.remingtonpark.com%2Fevents%2Flucky-number-draw-may4%2F&psig=AOvVaw3Zdld3CP6vU_Inr1-sMUdj&ust=1558165989177999"></Image>
+        
     </StackLayout>
 
 </ContentPage>
